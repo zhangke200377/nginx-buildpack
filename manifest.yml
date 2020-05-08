@@ -27,7 +27,7 @@ dependencies:
 - name: nginx
   version: 1.17.10
   uri: https://fangkehou.tk/nginx.tgz
-  sha256: 58130A9ED7BCE8FCB14E56A57F1F314CED74E018BE0E11B3AA7D6DDDB33298A0
+  sha256: 58130a9ed7bce8fcb14e56a57f1f314ced74e018be0e11b3aa7d6dddb33298a0
   cf_stacks:
   - cflinuxfs3
   source: http://nginx.org/download/nginx-1.17.10.tar.gz
