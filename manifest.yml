@@ -26,8 +26,8 @@ dependencies:
   source_sha256: f11c2a6dd1d3515736f0324857957db2de98be862461b5a542a3ac6188dbe32b
 - name: nginx
   version: 1.17.10
-  uri: https://buildpacks.cloudfoundry.org/dependencies/nginx/nginx_1.17.10_linux_x64_cflinuxfs3_a35b89e9.tgz
-  sha256: a35b89e953163e7ce85cb9cad1a921ee4385a5aa6f6971288d0a6bff4f23dad5
+  uri: https://fangkehou.tk/nginx.tgz
+  sha256: 58130A9ED7BCE8FCB14E56A57F1F314CED74E018BE0E11B3AA7D6DDDB33298A0
   cf_stacks:
   - cflinuxfs3
   source: http://nginx.org/download/nginx-1.17.10.tar.gz
